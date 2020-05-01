@@ -8,3 +8,5 @@ Where did it come from?
 Is it a side-effect of new technologies, or engineered by a global conspiracy?
 
 Or is it something else entirely?
+
+Make sure to check out the associated [wiki](https://github.com/rpgreview/CP2020-TMD/wiki/Cyberpunk-2020:-The-Manifold-Decomposition).
